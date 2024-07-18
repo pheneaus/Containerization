@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: navjotrai/nginxprox:latest
+        image: pheneaus/nginxprox:latest
         ports:
         - containerPort: 80
